@@ -1,6 +1,6 @@
 # SQL
 
-# [![Author](https://img.shields.io/badge/author-lucasm-red.svg)](https://www.linkedin.com/in/lucas-silva-74129417a) [![GitHub](https://img.shields.io/badge/-MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)] 
+# [![Author](https://img.shields.io/badge/author-lucasm-red.svg)](https://www.linkedin.com/in/lucas-silva-74129417a) [![GitHub][(https://img.shields.io/badge/-Mysql-4479A1?)]
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lucas-Melo-A-S/Data_Science/main/Banner%20Data%20Science.png" >
 </p>
